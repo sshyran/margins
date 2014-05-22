@@ -1,0 +1,31 @@
+{
+  "name": "margins.css",
+  "version": "0.0.1",
+  "homepage": "http://github.com/mrmrs/margins",
+  "description": "CSS module for an 8-step margin scale to be used for responsive prototyping in the browser.",
+  "keywords": [
+    "oocss",
+    "css",
+    "rwd",
+    "responsive design",
+    "margins",
+    "spacing",
+    "design"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mrmrs/margins.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrmrs/margins/issues"
+  },
+  "author": {
+    "name": "mrmrs",
+    "email": "hi@mrmrs.cc",
+    "url": "http://mrmrs.cc"
+  },
+  "contributors": [
+    { "name": "adam morse", "email": "hi@mrmrs.cc" }
+  ],
+  "license": "MIT"
+}
