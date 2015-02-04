@@ -1,6 +1,6 @@
 # MARGINS
 
-  A mobile-first, eight-step margin scale based on powers of 2. 
+  A mobile-first, eight-step margin scale based on powers of 2.
   Set the desired margin on any combination of sides on any element for any breakpoint.
   Base class names are namespaced across three breakpoints:
 
@@ -15,9 +15,9 @@ npm install margins.css --save-dev
 or download the css on github and include in your project.
 
 ## File Size
-Minified & Gzipped - 946B 
-Minified -6.4K 
-Uncompressed 9.0K 
+Minified & Gzipped - 946B
+Minified -6.4K
+Uncompressed 9.0K
 
 ## The Code
 ```
@@ -28,7 +28,7 @@ Uncompressed 9.0K
 
    1st character
    m = margin
-    
+
    2nd character
    a = all
    h = horizontal
@@ -313,7 +313,7 @@ Uncompressed 9.0K
 
 The MIT License (MIT)
 
-Copyright (c) 2014 @mrmrs
+Copyright (c) 2015 @mrmrs
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
